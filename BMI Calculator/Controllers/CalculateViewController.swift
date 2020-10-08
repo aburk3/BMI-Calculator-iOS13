@@ -20,7 +20,6 @@ class CalculateViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        calculatorBrain.getBMIValue
     }
 
     @IBAction func heightSliderChanged(_ sender: UISlider) {
